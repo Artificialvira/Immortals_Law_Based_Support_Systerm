@@ -1,8 +1,8 @@
 <h1 align="center" style="border-bottom: none">
     <b>
-        <a href="https://www.google.com"> Title of the project </a><br>
+        <a href="https://www.google.com">LawCraftsMan</a><br>
     </b>
-    ⭐️This is a sample tag line  ⭐️ <br>
+    ⭐️LawCraftsMan Automated Legal Advisory & Resolution Assistant  ⭐️ <br>
 </h1>
 
 # [`Website link`](http://www.google.com)  [`Demo video link `](http://www.google.com) [`Other links `](http://www.google.com) 
