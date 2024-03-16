@@ -8,7 +8,7 @@ const Theme = () => {
 
     useEffect(() => {
         // This effect runs after the component mounts and whenever activeColor changes
-        document.getElementById('theme-color').href = `css/${activeColor}.css`;
+        document.getElementById('theme-color').href = `src/css/${activeColor}.css`;
         console.log(`css/${activeColor}.css`)
     }, [activeColor]);
 
