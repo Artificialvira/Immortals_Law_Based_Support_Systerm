@@ -10,12 +10,12 @@ mention the description here , mention what does your prototype does  , make sur
 ## Team Details
 `Team number` : VH237
 
-|       Name        |                Email                   |
-|-------------------|----------------------------------------|
-| Arivarasan A      | arivarasana.aids2022@citchennai.net    |
-| Dhipankarthik E   | dhipankarthik.aids2022@citchennai.net  |
-| Guruprakash S     | guruprakashs.aids2022@citchennai.net   |
-| Vasanthamurugan R | vasanthamuruganr.me2022@citchennai.net |
+|       Name        |                  Email                   |
+|-------------------|------------------------------------------|
+| Arivarasan A      | arivarasana.aids2022@citchennai.net      |
+| Dhipankarthik E   | dhipandhanush57@gmail.com                |
+| Guruprakash S     | guruprakash03official@gmail.com          |
+| Vasanthamurugan R | vasanthamuruganr.mech2022@citchennai.net |
 
 <div style="display: flex; flex-wrap: wrap;">
     <img src="https://static.vecteezy.com/system/resources/previews/013/688/865/non_2x/modern-color-and-geometric-banner-design-template-on-the-background-of-the-mobile-phone-mobile-modern-poster-marketing-special-offer-promotion-smartphone-mockup-vector.jpg" alt="Image 1" style="width: 30%; margin: 5px;">
