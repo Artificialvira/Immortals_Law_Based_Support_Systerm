@@ -5,6 +5,7 @@ import {Routes,Route} from 'react-router-dom'
 import UserRL from './Components/UserRL'
 import Features from './Components/Landing/Features'
 import NotFound from './Components/NotFound'
+import Disclaimer from './Components/Landing/Disclaimer'
 
 
 
@@ -20,6 +21,7 @@ function App() {
       <Route exact path='/' element={<UserRL/>}/>
       <Route path='/features' element={<Features/>}/>
       <Route path='*' element={<NotFound/>}/>
+      <Route path='/disclaimer' element={<Disclaimer/>}/>
     </Routes> 
      
     

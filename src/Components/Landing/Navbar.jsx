@@ -52,6 +52,9 @@ const Navbar = () => {
                         <a className="nav-link page-scroll" href="#pricing">Pricing</a>
                     </li>
                     <li className="nav-item">
+                        <a className="nav-link page-scroll" href="#disclaimer">Disclaimer</a>
+                    </li>
+                    <li className="nav-item">
                         <a className="nav-link page-scroll" href="#faq">FAQ</a>
                     </li>
                     <li className="nav-item">
