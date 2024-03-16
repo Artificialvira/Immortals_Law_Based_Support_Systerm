@@ -25,6 +25,14 @@ if %errorlevel% neq 0 (
   exit /b 1
 )
 
+echo Pulling changes from remote... (This will now be the second-to-last step)
+git pull
+
+if %errorlevel% neq 0 (
+  echo Error: Failed to pull changes. Please check your connection or repository status.
+  exit /b 1
+)
+
 echo Pushing changes to remote...
 git push
 
@@ -33,13 +41,7 @@ if %errorlevel% neq 0 (
   exit /b 1
 )
 
-echo Pulling changes from remote... (This will now be the second-to-last step)
-git pull
 
-if %errorlevel% neq 0 (
-  echo Error: Failed to pull changes. Please check your connection or repository status.
-  exit /b 1
-)
 
 echo Done! Changes pushed and pulled successfully.
 

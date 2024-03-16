@@ -10,13 +10,13 @@
 ### Description
 This project demonstrates a prototype for a legal chatbot system designed to empower individuals with basic knowledge of their rights in various situations.
 ### What it does?
-    * Users can interact with the chatbot through a user-friendly interface built with React.
-    * They can submit legal queries via text prompts, offering accessibility for diverse users.
-    * The backend, powered by FastAPI, leverages Natural Language Processing (NLP) to understand the legal context of the user's query.
-    * By analyzing keywords and phrases, the chatbot identifies the relevant legal scenario.
-    * Utilizing a pre-built knowledge base, the system generates clear and concise explanations of rights and obligations in plain language.
-    * Additionally, the chatbot offers links to trusted legal resources, such as government websites or legal aid organizations, for further      exploration.
-    * Importantly, the system includes disclaimers emphasizing the chatbot's limitations and encouraging users to seek professional legal advice for complex situations.
+* Users can interact with the chatbot through a user-friendly interface built with React.
+* They can submit legal queries via text prompts, offering accessibility for diverse users.
+* The backend, powered by FastAPI, leverages Natural Language Processing (NLP) to understand the legal context of the user's query.
+* By analyzing keywords and phrases, the chatbot identifies the relevant legal scenario.
+* Utilizing a pre-built knowledge base, the system generates clear and concise explanations of rights and obligations in plain language.
+* Additionally, the chatbot offers links to trusted legal resources, such as government websites or legal aid organizations, for further      exploration.
+* Importantly, the system includes disclaimers emphasizing the chatbot's limitations and encouraging users to seek professional legal advice for complex situations.
 ## Team Details
 `Team number` : VH237
 
