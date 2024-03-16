@@ -5,8 +5,7 @@
     ⭐️Legal Knowledge at your finger tips⭐️ <br>
 </h1>
 
-# [`Website link`](http://www.google.com)  [`Demo video link `](http://www.google.com) [`Other links `](http://www.google.com) 
-## Overview
+## [`Website link`](http://www.google.com)  [`Demo video link `](http://www.google.com)  
 ### Description
 This project demonstrates a prototype for a legal chatbot system designed to empower individuals with basic knowledge of their rights in various situations.
 ### What it does?
