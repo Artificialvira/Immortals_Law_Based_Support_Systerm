@@ -1,19 +1,11 @@
 @echo off
 
-:: Prompt the user for the commit message variable
+
 set /p commitMsg="Enter your commit message (avoid embedding quotes): "
 
-:: Validate user input (optional, but recommended for security)
+
 if "%commitMsg%"=="" (
   echo Please enter a commit message. Exiting...
-  exit /b 1
-)
-
-echo Pulling changes from remote...
-git pull
-
-if %errorlevel% neq 0 (
-  echo Error: Failed to pull changes. Please check your connection or repository status.
   exit /b 1
 )
 
@@ -41,6 +33,14 @@ if %errorlevel% neq 0 (
   exit /b 1
 )
 
-echo Done! Changes pushed successfully.
+echo Pulling changes from remote... (This will now be the second-to-last step)
+git pull
+
+if %errorlevel% neq 0 (
+  echo Error: Failed to pull changes. Please check your connection or repository status.
+  exit /b 1
+)
+
+echo Done! Changes pushed and pulled successfully.
 
 pause
