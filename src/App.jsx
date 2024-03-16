@@ -6,6 +6,7 @@ import UserRL from './Components/UserRL'
 import Features from './Components/Landing/Features'
 import NotFound from './Components/NotFound'
 import Disclaimer from './Components/Landing/Disclaimer'
+import Home from './Components/Chatbot/Chatbot'
 
 
 
@@ -22,6 +23,7 @@ function App() {
       <Route path='/features' element={<Features/>}/>
       <Route path='*' element={<NotFound/>}/>
       <Route path='/disclaimer' element={<Disclaimer/>}/>
+      <Route path='/Home' element={<Home/>}/>
     </Routes> 
      
     

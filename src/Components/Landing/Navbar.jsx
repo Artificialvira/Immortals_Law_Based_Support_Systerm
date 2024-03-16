@@ -61,7 +61,7 @@ const Navbar = () => {
                         <a className="nav-link page-scroll" href="#blog">Blog</a>
                     </li>
                     <li className="nav-item">
-                        <Link to='/login' className="nav-link page-scroll d-flex flex-row align-items-center text-primary">
+                        <Link to='/Home' className="nav-link page-scroll d-flex flex-row align-items-center text-primary">
                         <BsReverseLayoutTextWindowReverse  size={18} className="mr-2"/>
 
                             Try Generator
