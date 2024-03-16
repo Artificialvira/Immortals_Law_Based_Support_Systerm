@@ -3,7 +3,7 @@ import Navbar from './Landing/Navbar'
 import Hero from './Landing/Hero'
 import Theme from './Landing/Theme'
 import Features from './Landing/Features'
-
+import Disclaimer from './Landing/Disclaimer'
 
 const UserRL = () => {
   return (
@@ -13,6 +13,7 @@ const UserRL = () => {
         <Navbar />  
         <Hero />
         <Features/>
+        <Disclaimer/>
       </section>
       <Theme />
       </section>
