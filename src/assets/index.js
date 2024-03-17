@@ -4,6 +4,7 @@ import cost from './cost.jpeg'
 import guid from './guidance.jpeg'
 import lawyer from './lawyer.jpeg'
 import multiple from './multiple.jpeg'
+import alert from './alert.png'
 
 export {
     logo,
@@ -12,4 +13,5 @@ export {
     lawyer,
     multiple,
     bg,
+    alert,
 }
