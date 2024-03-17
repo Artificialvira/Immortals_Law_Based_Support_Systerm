@@ -43,7 +43,7 @@ mention the approach and how you have solved the problem with the technology , u
 ![flowchart](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSm5X9E8h0kftXOW2B9jORBskdXF12pFKOX_Q&usqp=CAU)
 
 ## Techstacks used 
-`nodejs` , `react` , `ml` , `tech stack 1` , `tech stack 2`
+`nodejs` , `react` , `ml` , `vite` , 
 
 ## How to run locally 
 explain detailed steps to run your project locally , example to run a react application 
